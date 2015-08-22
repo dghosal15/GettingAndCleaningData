@@ -10,7 +10,7 @@
    * Use **source("run_analysis.R")** command to run the script in R 
    
 ## Step 3: The output
-   * After running the script in Step-3 above, you will find two output files are generated in the current working directory
+   * After running the script in Step-2 above, you will find two output files are generated in the current working directory
       * merged_data.txt(7.9 mb) : This text file contains a data frame called cleanedData with 10299X68 dimension.
       * tidy_dataset.txt(220 kb): This text file contains a data frame called result with 180X68 dimension.
       
