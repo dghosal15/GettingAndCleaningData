@@ -18,7 +18,7 @@
    * To check the output, you can use the data <- read.table("tidy_dataset.txt") command in R to read the file  
    * Since we are required to get the average of each variable for each activity and each subject, and there are 6 activities in      total and 30 subjects in total, we have 180 rows with all combinations for each of the 66 features.
 
-### Please see the codebook.md file to find details about all variables and summaries calculated.
+### Please see the "codebook.md" file to find details about all variables and summaries calculated.
 
 Thank You
    
